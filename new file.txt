@@ -1,0 +1,12 @@
+(myenv) E:\albindjangoprojects\todo applications>git push -u origin main
+info: please complete authentication in your browser...
+Enumerating objects: 49, done.
+Counting objects: 100% (49/49), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (46/46), done.
+Writing objects: 100% (49/49), 19.77 KiB | 809.00 KiB/s, done.
+Total 49 (delta 4), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (4/4), done.
+To https://github.com/albintom854-wq/demo-project.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
